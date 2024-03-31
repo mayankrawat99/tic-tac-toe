@@ -32,6 +32,11 @@ This project allows users to play the Tic-Tac-Toe game against another player on
 - `index.html`: HTML file containing the structure of the game.
 - `style.css`: CSS file for styling the game.
 - `script.js`: JavaScript file containing the logic for the Tic-Tac-Toe game.
+- 
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or submit a pull request.
+
 
 ## Credits
 
