@@ -6,6 +6,7 @@
     canvas{
       position: absolute;
       top: 50px;
+       z-index:-99999
     }
     .win{
       font-size: 1.3rem;
